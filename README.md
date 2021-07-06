@@ -18,12 +18,12 @@ I love coding and playing videogames!
 <table border="none">
 <td width="50%" display="inline" border="none">
  <div align="left" width="50%" display="inline">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertrec&layout=compact&theme=darcula&hide=HTML&show_icons=true" alt="Languages of Gilbert" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-decaro&layout=compact&theme=darcula&hide=HTML&show_icons=true" alt="Languages of Gilbert" /> 
     </div>
 </td>
     <td border="none">
         <div align="left" width="25%">
-            <img src="https://github-readme-stats.vercel.app/api?username=gilbertrec&hide=issues&theme=darcula&show_icons=true" alt="Activities of Gilbert"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=antonio-decaro&hide=issues&theme=darcula&show_icons=true" alt="Activities of Gilbert"/>
      </div>
     </td>
     </table>
