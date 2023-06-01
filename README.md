@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Antonio!🇮🇹
-I'm a Master Student of Computer Science at University of Salerno.
+I'm a Grant Researcher in Computer Science at University of Salerno.
 
 I'm a code enthusiast particularly focused on Cloud Computing, High Performance Computing, and Algorithms.
 
