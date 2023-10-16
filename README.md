@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Antonio!🇮🇹
-I'm a Grant Researcher in Computer Science at University of Salerno.
+I'm a PhD in Computer Science at University of Salerno.
 
-I'm a code enthusiast particularly focused on Cloud Computing, High Performance Computing, and Algorithms.
+I'm a code enthusiast particularly focused on High Performance Computing, GPU computation, and Algorithms.
 
 I love coding and playing videogames!
 
