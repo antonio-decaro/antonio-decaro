@@ -11,4 +11,4 @@ I love coding and playing videogames!
 
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/><img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/><img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-decaro&size_weight=0.5&count_weight=0.5&hide=javascript,html,css&theme=ayu-mirage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-decaro&size_weight=1&count_weight=0.5&hide=javascript,html,css&theme=ayu-mirage&layout=compact)
