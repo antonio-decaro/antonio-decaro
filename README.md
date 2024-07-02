@@ -9,7 +9,8 @@ I love coding and playing videogames!
 
 <!--<img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>-->
 
-<img alt="SYCL" src="https://img.shields.io/badge/SYCL-orange?style=for-the-badge"/><img alt="OpenCL" src="https://img.shields.io/badge/OpenCL-lightgray?style=for-the-badge"/><img alt="CUDA" src="https://img.shields.io/badge/CUDA-%2376b900?style=for-the-badge"/><img alt="LevelZero" src="https://img.shields.io/badge/LevelZero-blue?style=for-the-badge"/>
+
+<img alt="SYCL" src="https://img.shields.io/badge/SYCL-orange?style=for-the-badge&logo=khronosgroup"/><img alt="OpenCL" src="https://img.shields.io/badge/OpenCL-lightgray?style=for-the-badge&logo=khronosgroup"/><img alt="CUDA" src="https://img.shields.io/badge/CUDA-%2376b900?style=for-the-badge&logo=Nvidia&logoColor=white&link=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F1%2F12%2FCUDA_logo.svg"/><img alt="LevelZero" src="https://img.shields.io/badge/LevelZero-blue?style=for-the-badge&logo=intel"/>
 
 <!--<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/><img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/><img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>-->
 
