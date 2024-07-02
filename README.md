@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Antonio!🇮🇹
-I'm a PhD in Computer Science at University of Salerno.
+I'm a PhD student in Computer Science at University of Salerno.
 
 I'm a code enthusiast particularly focused on High Performance Computing, GPU computation, and Algorithms.
 
